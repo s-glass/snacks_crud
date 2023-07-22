@@ -17,8 +17,8 @@ Add full CRUD functionality to your bag of tricks by building a Django project t
 
 ## Setup
 
-Gitignore invludes venv.
-sample_env.txt includes env variables
+- Gitignore invludes venv.
+- sample_env.txt includes env variables
 
 ## How to initialize/run your application
 
