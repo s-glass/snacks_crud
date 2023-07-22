@@ -17,15 +17,19 @@ Add full CRUD functionality to your bag of tricks by building a Django project t
 
 ## Setup
 
-No .env requirements; gitignore invludes venv.
+Gitignore invludes venv.
+sample_env.txt includes env variables
 
 ## How to initialize/run your application
 
 - python manage.py runserver
 
-## Libraries
+## Libraries / Requirements
 
-No requirements outside of Django
+asgiref==3.7.2
+Django==4.2.3
+django-environ==0.10.0
+sqlparse==0.4.4
 
 ## Tests
 
